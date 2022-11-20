@@ -14,6 +14,9 @@ import SequelizeIcon from "./sequelizejs.svg";
 import MusicPlayerImage from './MusicPlayerImage.png'
 import CalculatorImg from './CalculatorImg.png'
 import EliranFashionImage from './EliranFashionImage.png'
+import GithubImage from './GithubImage.png'
+import SequelizeProject from './sequelize-project.png'
+
 
 
 export {
@@ -30,7 +33,9 @@ export {
   ReactNativeIcon,
   FlaskIcon,
   SequelizeIcon,
+  SequelizeProject,
   MusicPlayerImage,
   CalculatorImg,
-  EliranFashionImage
+  EliranFashionImage,
+  GithubImage
 };

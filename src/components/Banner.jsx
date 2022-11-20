@@ -12,7 +12,7 @@ const Banner = () => {
     { name: "Node Js", icon: NodeJSIcon },
     { name: "Python", icon: PythonIcon },
   ];
-  const INITIAL_DELTA = 400 - Math.random() * 100;
+  const INITIAL_DELTA = 300 - Math.random() * 100;
 
   //STATES
   const [loopNum, setLoopNum] = useState(0);
@@ -20,7 +20,7 @@ const Banner = () => {
   const [text, setText] = useState("");
   const [image, setImage] = useState("");
   const [delta, setDelta] = useState(INITIAL_DELTA);
-  const period = 2000;
+  const period = 500;
 
   // eslint-disable-next-line
   useEffect(() => {

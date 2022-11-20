@@ -53,9 +53,14 @@ const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.<br></br> Lorem Ipsum has been the industry's standard
-                dummy text.
+                I start my way on programming with pure html-css-js, <br></br>next I've
+                decided to learn #ReactJS for building a cross-platform Web
+                Apps.<br></br> The next skill on my list was #NodeJS, I've
+                started to build simple WebServices for my apps, <br></br>and keep
+                learning more to achieve a better understanding of back-end
+                architecture.<br></br>
+                I've learned #Python during my IT formal jobs and used it to
+                automate daily tasks.
               </p>
               <Carousel
                 responsive={responsive}
